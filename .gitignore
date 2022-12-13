@@ -1,0 +1,4 @@
+*.tif
+*.pkl
+*.aux.xml
+.ipynb_checkpoints/
