@@ -1,0 +1,45 @@
+Best set of hyperparameters: {'max_depth': 15, 'n_estimators': 100, 'class_weight': 'balanced'}
+Train report: 
+    Precision: 0.790459274295864
+
+    Recall: 0.2464868970755792
+
+    F1-score: 0.37579164505350016
+
+    Accuracy: 0.9516400061308641
+
+    Classification Report : 
+
+                  precision    recall  f1-score   support
+
+   Not burnt       0.95      1.00      0.97   1006804
+       Burnt       0.79      0.25      0.38     63192
+
+    accuracy                           0.95   1069996
+   macro avg       0.87      0.62      0.68   1069996
+weighted avg       0.94      0.95      0.94   1069996
+
+
+    
+Test report: 
+    Precision: 0.2881037277147488
+
+    Recall: 0.3169305377264299
+
+    F1-score: 0.30183040717220766
+
+    Accuracy: 0.9807849577033543
+
+    Classification Report : 
+
+                  precision    recall  f1-score   support
+
+   Not burnt       0.99      0.99      0.99   1055921
+       Burnt       0.29      0.32      0.30     14022
+
+    accuracy                           0.98   1069943
+   macro avg       0.64      0.65      0.65   1069943
+weighted avg       0.98      0.98      0.98   1069943
+
+
+    
