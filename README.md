@@ -28,4 +28,4 @@ In order to reproduce all the results using our preprocessed data:
 
 Contact us on our EPFL emails for any questions.
 
-[Final report](ML_Project2.pdf)
+[Final report](ML_Project_2.pdf)
