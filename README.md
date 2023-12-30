@@ -27,3 +27,5 @@ In order to reproduce all the results using our preprocessed data:
 - Continue running the notebook pipeline to visualize the susceptibility map and the explainability plots.
 
 Contact us on our EPFL emails for any questions.
+
+[Final report](ML_Project2.pdf)
